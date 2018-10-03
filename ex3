@@ -1,0 +1,19 @@
+<head>
+
+   </head>
+    <body>
+       <div>
+          <ul>
+              <li> They're useful for displaying list of stuff</li>
+              <li> That's about it</li>
+              <li> Im gunna put another list item here blah </li>
+          </ul>
+          <ol>
+              <li>First</li>
+              <li>Second</li>
+              <li>Third</li>
+            </ol>
+          
+        </div>
+    </body>
+ </html>
