@@ -1,0 +1,12 @@
+<head>
+
+   </head>
+    <body>
+       <div>
+          <p> &nbsp; respresents space</p>
+           <p> Normal text</p>
+            <p> <b>represents bold styling</b></p>
+             <p> <i>reps italicized styling</i> </p>  
+        </div>
+    </body>
+ </html>
